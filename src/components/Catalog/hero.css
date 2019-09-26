@@ -1,0 +1,21 @@
+.hero-img {
+    background: url('http://hdqwalls.com/wallpapers/call-of-duty-modern-warfare-remastered-2019-4k-ow.jpg');
+    height: 50vh;
+    min-height: 600px;
+    background-size: cover;
+    background-position-y: -15vh;
+    position: relative;
+}
+.register-form {
+    background: #00000088;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+    width: 25%;
+    position: absolute;
+    right: 60px;
+    top: 60px;
+    height: 380px;
+}
